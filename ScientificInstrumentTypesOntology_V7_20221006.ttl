@@ -3640,13 +3640,7 @@ tok:hourglass a skos:Concept;
 
 
 
-tok:hydraulic_instrument_part a skos:Concept;
-  dct:isPartOf <http://toolsofknowledge.org/hydraulic\u0020instrument>;
-  skos:broader tok:part;
-  skos:broaderTransitive tok:part;
-  skos:inScheme <http://toolsofknowledge.org>;
-  skos:narrower tok:hydraulic_screw;
-  skos:prefLabel "hydraulic instrument part"@en .
+
 
 tok:hydraulic_machinery a skos:Concept;
   skos:broader tok:hydraulics;
